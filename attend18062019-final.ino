@@ -1,5 +1,5 @@
  /*This code shared as is and no responsibility accepted
- * github csarp
+ * https://github.com/csarp/espattend
  */
 
 #include <ESP8266WiFi.h>     //Include Esp library
